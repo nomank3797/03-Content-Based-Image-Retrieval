@@ -1,4 +1,4 @@
-# Content-Based-Image-Retrieval
+# 03-Content-Based-Image-Retrieval
 This repository consists of three Python driver scripts:
 
 train_autoencoder.py: Trains an autoencoder on the MNIST handwritten digits dataset using the ConvAutoencoder CNN/class
